@@ -156,7 +156,7 @@ const Header = () => {
                 <span className="relative z-10">Contact Us</span>
                 <span className="absolute inset-0 -translate-x-full bg-gradient-to-r from-[#6366f1] to-primary transition-transform duration-500 group-hover:translate-x-0" />
               </Link>
-              <ThemeToggler />
+
             </div>
           </div>
         </div>
