@@ -23,7 +23,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
       </head>
 
-      <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
+      <body className={`bg-[#050505] text-[#ededed] antialiased ${inter.className}`}>
         <Providers>
           <div className="isolate">
             <Header />
